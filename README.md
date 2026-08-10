@@ -1,116 +1,240 @@
-<div align="center">
+<h1 align="center">Hey 👋, I'm Dilkhush Kumar</h1>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Dilkhush+Kumar;A+Passionate+Java+Engineer;Building+with+Java+%26+Spring+Boot;Always+learning%2C+always+shipping." alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Aspiring+Java+Developer;Java+%7C+Spring+Boot+%7C+DSA;Backend+Development+Enthusiast;Building+Projects+%7C+Solving+Problems;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</p>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=dilkhushkumardev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/dilkhushkumardev?label=Followers&style=flat&color=0e75b6" alt="Followers" />
-<img src="https://img.shields.io/badge/dynamic/json?color=0e75b6&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdilkhushkumardev" alt="Public Repos" />
-
-</div>
-
----
-
-### 🚀 About Me
-
-- 🔭 I'm currently working on **[Hospital Management System](https://github.com/Dilkhushkumardev/Hospital-management-system)**
-- 🌱 I'm currently learning **Java & Spring Boot**
-- 👯 I'm looking to collaborate on **[Hospital Management System](https://github.com/Dilkhushkumardev/Hospital-management-system)**
-- 🤝 I'm looking for help with my **[Portfolio](https://github.com/Dilkhushkumardev/portfolio)**
-- 💬 Ask me about **Java, Spring Boot, DSA, and backend development**
-- ⚡ Fun fact: I enjoy solving problems on CodeChef, HackerRank & LeetCode
-
----
-
-### 🔗 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/dilkhushkumar26" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://instagram.com/dilkhush.codes" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://www.codechef.com/users/dilkhush_99" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
-<a href="https://www.hackerrank.com/dilkhushkumar251" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-<a href="https://leetcode.com/xgkvyo7gfp" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-<a href="https://auth.geeksforgeeks.org/user/dilkhush_kumar" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dilkhushkumardev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/dilkhushkumardev?label=Followers&style=flat&color=0e75b6" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/dilkhushkumardev?label=Stars&style=flat&color=0e75b6" alt="GitHub Stars" />
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+<h2 align="center">🚀 About Me</h2>
 
-<p align="left">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<p align="center">
+  🎓 B.Tech CSE Student @ Government Engineering College, Sheikhpura<br/>
+  💻 Aspiring Java Developer focused on Backend Development<br/>
+  ☕ Learning Java & Spring Boot<br/>
+  🧩 Practicing Data Structures & Algorithms<br/>
+  🗄️ Exploring SQL & Database Management<br/>
+  🚀 Building real-world projects and improving every day
+</p>
+
+<p align="center">
+  <b>My goal is to become a strong Java Backend Developer by building reliable, scalable and impactful software.</b>
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=dilkhushkumardev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Dilkhush's GitHub stats"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilkhushkumardev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=dilkhushkumardev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-### 📈 Contribution Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dilkhushkumardev&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" width="100%"/>
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dilkhushkumardev&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=dilkhishkumardev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
+        alt="GitHub Stats"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://streak-stats.demolab.com/?user=dilkhushkumardev&theme=tokyonight&hide_border=true"
+        alt="GitHub Streak"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🌟 Featured Projects
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,c,python,js,html,css,react,nodejs,mysql,postgres,mongodb,firebase,git,github,linux&perline=9&size=45" alt="Tech Stack" />
+</p>
+
+<p align="center">
+  <b>☕ Java</b> •
+  <b>🌱 Spring Boot</b> •
+  <b>🧩 OOP</b> •
+  <b>📊 DSA</b> •
+  <b>🗄️ SQL</b> •
+  <b>🌐 Backend Development</b> •
+  <b>🔧 Git & GitHub</b>
+</p>
+
+---
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dilkhushkumardev&theme=tokyo-night&hide_border=true&area=true&height=300"
+    alt="Contribution Activity"
+    width="100%"
+  />
+</p>
+
+---
+
+<h2 align="center">📌 GitHub Overview</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dilkhushkumardev&theme=tokyonight"
+        alt="GitHub Overview"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dilkhushkumardev&theme=tokyonight&utcOffset=5.5"
+        alt="Productive Time"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">💻 Most Used Languages</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dilkhushkumardev&theme=tokyonight"
+        alt="Languages by Repository"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dilkhushkumardev&theme=tokyonight"
+        alt="Languages by Commit"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🌟 Featured Projects</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
 
 <a href="https://github.com/Dilkhushkumardev/Hospital-management-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dilkhushkumardev&repo=Hospital-management-system&theme=tokyonight&hide_border=true" alt="Hospital Management System"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Dilkhushkumardev&repo=Hospital-management-system&theme=tokyonight&hide_border=true"
+    alt="Hospital Management System"
+  />
 </a>
+
+```
+</td>
+
+<td width="50%" align="center">
+```
+
 <a href="https://github.com/Dilkhushkumardev/portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dilkhushkumardev&repo=portfolio&theme=tokyonight&hide_border=true" alt="Portfolio"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Dilkhushkumardev&repo=portfolio&theme=tokyonight&hide_border=true"
+    alt="Portfolio"
+  />
 </a>
 
-</div>
+```
+</td>
+```
 
-> 💡 Add more pins by copying a card above and swapping the `repo=` value for any of your repositories.
+  </tr>
+</table>
 
 ---
 
-<div align="center">
+<h2 align="center">🏆 GitHub Trophies</h2>
 
-**Thanks for stopping by! Feel free to explore my repos or reach out to connect. 🚀**
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=dilkhushkumardev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"
+    alt="GitHub Trophies"
+  />
+</p>
 
-</div>
+---
+
+<h2 align="center">🔗 Connect With Me</h2>
+
+<p align="center">
+
+<a href="https://linkedin.com/in/dilkhushkumar26" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://instagram.com/dilkhush.codes" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://www.codechef.com/users/dilkhush_99" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</a>
+
+<a href="https://www.hackerrank.com/dilkhushkumar251" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
+
+<a href="https://leetcode.com/xgkvyo7gfp" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/dilkhush_kumar" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
+
+</p>
+
+---
+
+<h2 align="center">🎯 Currently Focused On</h2>
+
+<p align="center">
+  ☕ Core Java & Advanced Java<br/>
+  🌱 Spring Boot & Backend Development<br/>
+  🧩 Data Structures & Algorithms<br/>
+  🗄️ SQL & Database Management<br/>
+  🔧 Git & GitHub<br/>
+  🚀 Building Real-World Projects
+</p>
+
+---
+
+<h2 align="center">💡 Developer Mindset</h2>
+
+<p align="center">
+  <i>
+    "Every expert was once a beginner —<br/>
+    I'm learning, building, breaking, fixing, and growing every day."
+  </i>
+</p>
+
+---
+
+<p align="center">
+  <b>⭐ Thanks for visiting my profile!</b><br/>
+  Feel free to explore my repositories and connect with me. 🚀
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer" width="100%"/>
+</p>
