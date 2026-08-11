@@ -208,27 +208,57 @@ width="100%"
 
 ---
 
-# 🔥 Contribution Streak
+---
+
+# 💻 Coding & Problem Solving
 
 <div align="center">
 
+<table width="100%">
+<tr>
+
+<td width="50%" align="center">
+
+### 🧩 LeetCode
+
+<a href="https://leetcode.com/xgkvyo7gfp">
+
 <img
-src="https://streak-stats.demolab.com/?user=dilkhushkumardev&theme=tokyonight&hide_border=true&border_radius=12"
-alt="GitHub Contribution Streak"
-width="70%"
+src="https://leetcard.jacoblin.cool/xgkvyo7gfp?theme=dark&font=baloo&ext=heatmap"
+alt="LeetCode Stats"
+width="100%"
 />
+
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🐙 GitHub Contributions
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=dilkhushkumardev&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity"
+alt="GitHub Contribution Graph"
+width="100%"
+/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🏆 GitHub Achievements
 
 <div align="center">
 
 <img
-src="https://raw.githubusercontent.com/dilkhushkumardev/dilkhushkumardev/output/github-contribution-grid-snake-dark.svg"
-alt="GitHub Contribution Snake"
+src="https://github-profile-trophy.vercel.app/?username=dilkhushkumardev&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6"
+alt="GitHub Profile Trophies"
 width="100%"
 />
 
@@ -236,62 +266,25 @@ width="100%"
 
 ---
 
-# 🏆 Achievements & Milestones
+# 📊 Coding Profiles
 
 <div align="center">
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=dilkhushkumardev&theme=onestar&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6"
-alt="GitHub Achievements"
-/>
+<a href="https://leetcode.com/xgkvyo7gfp">
+<img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
 
-<br><br>
+<a href="https://www.codechef.com/users/dilkhush_99">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+</a>
 
-<table width="100%">
-<tr>
+<a href="https://www.hackerrank.com/dilkhushkumar251">
+<img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
 
-<td align="center" width="25%">
-
-### ☕
-
-**Java Journey**
-
-Building with Java
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧩
-
-**DSA Practice**
-
-Sharpening problem solving
-
-</td>
-
-<td align="center" width="25%">
-
-### 🚀
-
-**Projects**
-
-Building practical software
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔥
-
-**Consistency**
-
-Learn • Code • Improve
-
-</td>
-
-</tr>
-</table>
+<a href="https://auth.geeksforgeeks.org/user/dilkhush_kumar">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
 
 </div>
 
@@ -301,123 +294,61 @@ Learn • Code • Improve
 
 <div align="center">
 
-## 🏥 Hospital Management System
+<table width="100%">
+<tr>
+
+<td width="50%" align="center">
 
 <a href="https://github.com/Dilkhushkumardev/Hospital-management-system">
 
 <img
 src="https://github-readme-stats.vercel.app/api/pin/?username=dilkhushkumardev&repo=Hospital-management-system&theme=tokyonight&hide_border=true&bg_color=050505&title_color=38BDF8&icon_color=0EA5E9&text_color=CBD5E1"
 alt="Hospital Management System"
-width="520"
+width="100%"
 />
 
 </a>
 
-### 🏥 Hospital Management System
-
-A practical software project focused on building a **hospital management application** with a structured source-code setup and database connectivity.
-
-**Repository highlights**
-
-`Java` • `MySQL` • `JDBC` • `Backend Development`
-
 <br>
-
-<a href="https://github.com/Dilkhushkumardev/Hospital-management-system">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0077FF?style=for-the-badge&logo=github&logoColor=white" alt="View Hospital Management System"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 🎓 College Website
-
-<a href="https://github.com/Dilkhushkumardev/college-website">
-
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=dilkhushkumardev&repo=college-website&theme=tokyonight&hide_border=true&bg_color=050505&title_color=38BDF8&icon_color=0EA5E9&text_color=CBD5E1"
-alt="College Website"
-width="520"
-/>
-
-</a>
-
-### 🎓 College Website
-
-A complete college-focused website containing multiple pages, department sections, admission information, gallery content, faculty-related assets and interactive website components.
-
-**Repository highlights**
-
-`HTML` • `CSS` • `JavaScript` • `Responsive Web Design`
-
-<br>
-
-<a href="https://github.com/Dilkhushkumardev/college-website">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0077FF?style=for-the-badge&logo=github&logoColor=white" alt="View College Website"/>
-</a>
-
-</div>
-
----
-
-# 📂 Project Portfolio
-
-<div align="center">
-
-<table width="100%">
-<tr>
-
-<td width="50%" align="center">
 
 ### 🏥 Hospital Management System
-
-<img src="https://img.shields.io/badge/TYPE-BACKEND%20PROJECT-0B1F3A?style=for-the-badge&color=0077FF" alt="Backend Project"/>
-
-<br><br>
-
-**Focus**
 
 `Java` `MySQL` `JDBC`
 
-<br>
-
-**Goal**
-
-Building practical software for managing hospital-related workflows.
+**Backend-focused project for hospital management and database-based application development.**
 
 <br>
 
 <a href="https://github.com/Dilkhushkumardev/Hospital-management-system">
-<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORY-0077FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore Hospital Repository"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0077FF?style=for-the-badge&logo=github&logoColor=white" alt="View Hospital Management System"/>
 </a>
 
 </td>
 
 <td width="50%" align="center">
 
-### 🎓 College Website
+<a href="https://github.com/Dilkhushkumardev/college-website">
 
-<img src="https://img.shields.io/badge/TYPE-WEB%20PROJECT-0B1F3A?style=for-the-badge&color=0077FF" alt="Web Project"/>
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=dilkhushkumardev&repo=college-website&theme=tokyonight&hide_border=true&bg_color=050505&title_color=38BDF8&icon_color=0EA5E9&text_color=CBD5E1"
+alt="College Website"
+width="100%"
+/>
 
-<br><br>
-
-**Focus**
-
-`HTML` `CSS` `JavaScript`
+</a>
 
 <br>
 
-**Goal**
+### 🎓 College Website
 
-Creating a structured and informative digital presence for a college.
+`HTML` `CSS` `JavaScript`
+
+**Responsive college website project with multiple pages, sections and interactive components.**
 
 <br>
 
 <a href="https://github.com/Dilkhushkumardev/college-website">
-<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORY-0077FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore College Website Repository"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0077FF?style=for-the-badge&logo=github&logoColor=white" alt="View College Website"/>
 </a>
 
 </td>
@@ -429,73 +360,18 @@ Creating a structured and informative digital presence for a college.
 
 ---
 
-# ☕ Java Backend Journey
+# 📚 Currently Learning
 
 <div align="center">
 
-```text
-                         ☕ JAVA
-                           │
-              ┌────────────┴────────────┐
-              │                         │
-         CORE JAVA                PROBLEM SOLVING
-              │                         │
-       ┌──────┴──────┐            ┌────┴────┐
-       │             │            │         │
-      OOP       Collections      DSA    Algorithms
-       │             │            │         │
-       └──────┬──────┘            └────┬────┘
-              │                         │
-              └────────────┬────────────┘
-                           │
-                     🌱 SPRING BOOT
-                           │
-                  ┌────────┴────────┐
-                  │                 │
-              REST APIs          Backend
-                  │                 │
-                  └────────┬────────┘
-                           │
-                     🗄️ DATABASES
-                           │
-                 MySQL • SQL • MongoDB
-                           │
-                           ▼
-                  🚀 JAVA BACKEND
-```
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/01-CORE%20JAVA-050505?style=for-the-badge&labelColor=0B1F3A&color=0077FF" alt="Core Java"/>
-<img src="https://img.shields.io/badge/02-DSA-050505?style=for-the-badge&labelColor=0B1F3A&color=0077FF" alt="DSA"/>
-<img src="https://img.shields.io/badge/03-SPRING%20BOOT-050505?style=for-the-badge&labelColor=0B1F3A&color=0077FF" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/04-REST%20APIs-050505?style=for-the-badge&labelColor=0B1F3A&color=0077FF" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/05-DATABASES-050505?style=for-the-badge&labelColor=0B1F3A&color=0077FF" alt="Databases"/>
-
-</div>
-
----
-
-# 🎯 Developer Mission
-
-<div align="center">
-
-> ### **Learn deeply. Build consistently. Solve real problems.**
-
-<br>
-
-<img src="https://img.shields.io/badge/LEARN-CORE%20JAVA-0077FF?style=for-the-badge&labelColor=050505" alt="Learn Core Java"/>
-<img src="https://img.shields.io/badge/BUILD-SPRING%20BOOT-0EA5E9?style=for-the-badge&labelColor=050505" alt="Build Spring Boot"/>
-<img src="https://img.shields.io/badge/SOLVE-DSA-38BDF8?style=for-the-badge&labelColor=050505" alt="Solve DSA"/>
-<img src="https://img.shields.io/badge/ENGINEER-BACKEND-0077FF?style=for-the-badge&labelColor=050505" alt="Engineer Backend"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github&perline=5" alt="Currently Learning"/>
 
 <br><br>
 
-**My goal is to grow into a production-ready Java Backend Developer.**
+<img src="https://img.shields.io/badge/Java-Backend%20Development-0077FF?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Backend"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-Learning-0EA5E9?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+<img src="https://img.shields.io/badge/DSA-Practice-38BDF8?style=for-the-badge&logo=leetcode&logoColor=black" alt="DSA"/>
+<img src="https://img.shields.io/badge/SQL-Database-0077FF?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 
 </div>
 
