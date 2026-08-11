@@ -290,6 +290,8 @@ width="100%"
 
 ---
 
+---
+
 # 🚀 Featured Builds
 
 <div align="center">
@@ -297,58 +299,80 @@ width="100%"
 <table width="100%">
 <tr>
 
-<td width="50%" align="center">
+<!-- ================= HOSPITAL MANAGEMENT ================= -->
 
-<a href="https://github.com/Dilkhushkumardev/Hospital-management-system">
+<td width="50%" valign="top" align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=dilkhushkumardev&repo=Hospital-management-system&theme=tokyonight&hide_border=true&bg_color=050505&title_color=38BDF8&icon_color=0EA5E9&text_color=CBD5E1"
-alt="Hospital Management System"
-width="100%"
-/>
+<h2>🏥 Hospital Management System</h2>
 
-</a>
-
-<br>
-
-### 🏥 Hospital Management System
-
-`Java` `MySQL` `JDBC`
-
-**Backend-focused project for hospital management and database-based application development.**
+<p>
+  <img src="https://img.shields.io/badge/Java-Backend-0077FF?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-Database-0EA5E9?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 <br>
 
+<p>
+A practical <b>Java-based hospital management project</b>
+focused on backend programming and database connectivity.
+</p>
+
+<br>
+
+<p><b>🛠️ Technologies</b></p>
+
+<p>
+  <code>Java</code>
+  <code>MySQL</code>
+  <code>JDBC</code>
+</p>
+
+<br>
+
 <a href="https://github.com/Dilkhushkumardev/Hospital-management-system">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0077FF?style=for-the-badge&logo=github&logoColor=white" alt="View Hospital Management System"/>
+  <img src="https://img.shields.io/badge/💻%20VIEW%20SOURCE%20CODE-0077FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="50%" align="center">
 
-<a href="https://github.com/Dilkhushkumardev/college-website">
+<!-- ================= COLLEGE WEBSITE ================= -->
 
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=dilkhushkumardev&repo=college-website&theme=tokyonight&hide_border=true&bg_color=050505&title_color=38BDF8&icon_color=0EA5E9&text_color=CBD5E1"
-alt="College Website"
-width="100%"
-/>
+<td width="50%" valign="top" align="center">
 
+<h2>🎓 College Website</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-Frontend-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-Interactive-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+<br>
+
+<p>
+A complete <b>college website</b> designed to present
+college information, departments, gallery and other web content.
+</p>
+
+<br>
+
+<p><b>🛠️ Technologies</b></p>
+
+<p>
+  <code>HTML</code>
+  <code>CSS</code>
+  <code>JavaScript</code>
+</p>
+
+<br>
+
+<a href="https://prabhukailashpolytechnic.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 
-<br>
-
-### 🎓 College Website
-
-`HTML` `CSS` `JavaScript`
-
-**Responsive college website project with multiple pages, sections and interactive components.**
-
-<br>
-
 <a href="https://github.com/Dilkhushkumardev/college-website">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0077FF?style=for-the-badge&logo=github&logoColor=white" alt="View College Website"/>
+  <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-0077FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
